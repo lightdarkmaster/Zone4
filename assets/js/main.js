@@ -95,6 +95,11 @@
 
 })(jQuery);
 
+
+//add this code here..
+
 var isPlaying = false;
 
 console.log(isPlaying);
+
+//add this code here
